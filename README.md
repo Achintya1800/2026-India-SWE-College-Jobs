@@ -12,8 +12,8 @@ This repository is a comprehensive list of Software Engineering jobs for college
 
 <br/>
 <div align="center">
-  <a href="https://speedyapplyy.com">
-    <img src="https://speedyapplyy.com/api/jobs/chart" width="800" alt="Software Engineering College Job Market">
+  <a href="https://speedyapply.com">
+    <img src="https://speedyapply.com/api/jobs/chart" width="800" alt="Software Engineering College Job Market">
   </a>
 </div>
 <div align="center">
